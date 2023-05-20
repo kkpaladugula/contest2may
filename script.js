@@ -1,4 +1,4 @@
-let apiKey = `5055851c551a42edbe54f0fa02eb1474`;
+let apiKey = `b2f2f9fd6de74a2597abe08855122c4c`;
 let uppercontainer = document.getElementById("uppercontainer");
 
 if (navigator.geolocation) {
